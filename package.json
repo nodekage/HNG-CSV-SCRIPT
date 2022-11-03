@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "fast-csv": "^4.3.6",
+    "json2csv": "^5.0.7",
+    "yargs": "^17.6.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "hng-csv-script",
+  "description": "",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodekage/HNG-CSV-SCRIPT.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodekage/HNG-CSV-SCRIPT/issues"
+  },
+  "homepage": "https://github.com/nodekage/HNG-CSV-SCRIPT#readme"
+}
